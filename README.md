@@ -1,8 +1,8 @@
-# Anomess
+# Anomes
 
 > A secure, anonymous Android messaging app powered by Tor and SQLCipher.
 
-Anomess is a secure, anonymous messaging application built for Android using Kotlin and Jetpack Compose. It prioritizes user privacy and security by leveraging Tor for network anonymity and robust encryption standards for data storage and transmission.
+Anomes is a secure, anonymous messaging application built for Android using Kotlin and Jetpack Compose. It prioritizes user privacy and security by leveraging Tor for network anonymity and robust encryption standards for data storage and transmission.
 
 ## Features
 
@@ -45,7 +45,7 @@ Anomess is a secure, anonymous messaging application built for Android using Kot
 
 ## Security
 
-Anomess takes security seriously:
+Anomes takes security seriously:
 - **At Rest**: Data is stored using SQLCipher 256-bit AES encryption.
 - **In Transit**: Traffic is routed through the Tor network for anonymity.
 
